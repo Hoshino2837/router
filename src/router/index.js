@@ -17,6 +17,26 @@ const routes =[
         path:"/news",
         name:"news",
         component:()=> import('../views/NewsView.vue')
+    },
+    {
+        path : '/NewsDetails1',
+        name : "newdetails1",
+        component:()=> import('../views/NewsDetailsView1.vue')
+    },
+    {
+        path : '/NewsDetails2',
+        name : "newdetails2",
+        component:()=> import('../views/NewsDetailsView2.vue')
+    },
+    {
+        path : '/NewsDetails3',
+        name : "newdetails3",
+        component:()=> import('../views/NewsDetailsView3.vue')
+    },
+    {
+        path : '/NewsDetails4',
+        name : "newdetails4",
+        component:()=> import('../views/NewsDetailsView4.vue')
     }
 ]
 

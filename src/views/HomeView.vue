@@ -6,7 +6,7 @@
       <div class="news-preview">
         <h3>最新新闻</h3>
         <div class="news-card">
-          <h4><router-link to="/news">六旬老太横穿马路被撞 目击者称其速度"堪比年轻人奔跑"</router-link></h4>
+          <h4><router-link to="/news">震惊！八旬老太横穿马路风驰电掣，岂料却因此撞大运</router-link></h4>
           <p class="preview-text">今日下午3时许，月野市星路与花火路交叉口发生一起交通事故，一名62岁老太未走斑马线横穿马路时与小轿车碰撞...</p>
           <p class="preview-time">发布时间：2025年08月25日 15:30</p>
         </div>

@@ -9,8 +9,8 @@
       
       <nav class="main-nav">
         <router-link to="/" class="nav-link" active-class="active">首页</router-link>
-        <router-link to="/about" class="nav-link" active-class="active">关于</router-link>
         <router-link to="/news" class="nav-link" active-class="active">新闻</router-link>
+        <router-link to="/about" class="nav-link" active-class="active">关于</router-link>
       </nav>
     </header>
 
