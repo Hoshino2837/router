@@ -1,4 +1,5 @@
 ﻿<template>
+    {{ $route.params.name }}
   <div class="news-container">
      <h1 class="news-title">震惊！六十老太横穿马路风驰电掣造车撵</h1>
     <!-- 新闻元信息（时间、地点标注） -->

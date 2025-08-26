@@ -6,9 +6,12 @@
       <div class="news-preview">
         <h3>最新新闻</h3>
         <div class="news-card">
-          <h4><router-link to="/news">震惊！八旬老太横穿马路风驰电掣，岂料却因此撞大运</router-link></h4>
-          <p class="preview-text">今日下午3时许，月野市星路与花火路交叉口发生一起交通事故，一名62岁老太未走斑马线横穿马路时与小轿车碰撞...</p>
-          <p class="preview-time">发布时间：2025年08月25日 15:30</p>
+          <h4> <ul>
+        <li><router-link to="/NewsDetails1/八旬老太">八旬老太撞大运</router-link></li>
+        <li><router-link to="/NewsDetails2/母猪下崽">母猪下崽成2D</router-link></li>
+        <li><router-link to="/NewsDetails3/少女得病">少女确诊狂犬病</router-link></li>
+        <li><router-link to="/NewsDetails4/外星人近">外星人离咱很近</router-link></li>
+    </ul></h4>
         </div>
       </div>
     </div>

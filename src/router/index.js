@@ -19,22 +19,22 @@ const routes =[
         component:()=> import('../views/NewsView.vue')
     },
     {
-        path : '/NewsDetails1',
+        path : '/NewsDetails1/:name',
         name : "newdetails1",
         component:()=> import('../views/NewsDetailsView1.vue')
     },
     {
-        path : '/NewsDetails2',
+        path : '/NewsDetails2/:name',
         name : "newdetails2",
         component:()=> import('../views/NewsDetailsView2.vue')
     },
     {
-        path : '/NewsDetails3',
+        path : '/NewsDetails3/:name',
         name : "newdetails3",
         component:()=> import('../views/NewsDetailsView3.vue')
     },
     {
-        path : '/NewsDetails4',
+        path : '/NewsDetails4/:name',
         name : "newdetails4",
         component:()=> import('../views/NewsDetailsView4.vue')
     }
